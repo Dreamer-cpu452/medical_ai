@@ -1,0 +1,201 @@
+patient_id,name,disease
+1,Patient_1,Kidney Disease
+2,Patient_2,Kidney Disease
+3,Patient_3,Diabetes
+4,Patient_4,Diabetes
+5,Patient_5,Cancer
+6,Patient_6,Kidney Disease
+7,Patient_7,Heart Disease
+8,Patient_8,Cancer
+9,Patient_9,Kidney Disease
+10,Patient_10,Kidney Disease
+11,Patient_11,Cancer
+12,Patient_12,Cancer
+13,Patient_13,Heart Disease
+14,Patient_14,Kidney Disease
+15,Patient_15,Heart Disease
+16,Patient_16,Diabetes
+17,Patient_17,Diabetes
+18,Patient_18,Diabetes
+19,Patient_19,Cancer
+20,Patient_20,Cancer
+21,Patient_21,Diabetes
+22,Patient_22,Diabetes
+23,Patient_23,Cancer
+24,Patient_24,Cancer
+25,Patient_25,Cancer
+26,Patient_26,Diabetes
+27,Patient_27,Heart Disease
+28,Patient_28,Kidney Disease
+29,Patient_29,Kidney Disease
+30,Patient_30,Diabetes
+31,Patient_31,Kidney Disease
+32,Patient_32,Diabetes
+33,Patient_33,Kidney Disease
+34,Patient_34,Kidney Disease
+35,Patient_35,Heart Disease
+36,Patient_36,Kidney Disease
+37,Patient_37,Kidney Disease
+38,Patient_38,Heart Disease
+39,Patient_39,Kidney Disease
+40,Patient_40,Cancer
+41,Patient_41,Cancer
+42,Patient_42,Diabetes
+43,Patient_43,Diabetes
+44,Patient_44,Heart Disease
+45,Patient_45,Cancer
+46,Patient_46,Kidney Disease
+47,Patient_47,Cancer
+48,Patient_48,Cancer
+49,Patient_49,Diabetes
+50,Patient_50,Diabetes
+51,Patient_51,Diabetes
+52,Patient_52,Kidney Disease
+53,Patient_53,Kidney Disease
+54,Patient_54,Cancer
+55,Patient_55,Cancer
+56,Patient_56,Kidney Disease
+57,Patient_57,Diabetes
+58,Patient_58,Cancer
+59,Patient_59,Cancer
+60,Patient_60,Cancer
+61,Patient_61,Cancer
+62,Patient_62,Diabetes
+63,Patient_63,Diabetes
+64,Patient_64,Heart Disease
+65,Patient_65,Kidney Disease
+66,Patient_66,Kidney Disease
+67,Patient_67,Cancer
+68,Patient_68,Heart Disease
+69,Patient_69,Cancer
+70,Patient_70,Kidney Disease
+71,Patient_71,Diabetes
+72,Patient_72,Cancer
+73,Patient_73,Cancer
+74,Patient_74,Kidney Disease
+75,Patient_75,Diabetes
+76,Patient_76,Diabetes
+77,Patient_77,Cancer
+78,Patient_78,Kidney Disease
+79,Patient_79,Cancer
+80,Patient_80,Kidney Disease
+81,Patient_81,Diabetes
+82,Patient_82,Cancer
+83,Patient_83,Heart Disease
+84,Patient_84,Heart Disease
+85,Patient_85,Cancer
+86,Patient_86,Cancer
+87,Patient_87,Kidney Disease
+88,Patient_88,Diabetes
+89,Patient_89,Cancer
+90,Patient_90,Cancer
+91,Patient_91,Kidney Disease
+92,Patient_92,Cancer
+93,Patient_93,Heart Disease
+94,Patient_94,Cancer
+95,Patient_95,Diabetes
+96,Patient_96,Cancer
+97,Patient_97,Heart Disease
+98,Patient_98,Heart Disease
+99,Patient_99,Kidney Disease
+100,Patient_100,Diabetes
+101,Patient_101,Heart Disease
+102,Patient_102,Cancer
+103,Patient_103,Cancer
+104,Patient_104,Kidney Disease
+105,Patient_105,Diabetes
+106,Patient_106,Heart Disease
+107,Patient_107,Diabetes
+108,Patient_108,Cancer
+109,Patient_109,Diabetes
+110,Patient_110,Cancer
+111,Patient_111,Heart Disease
+112,Patient_112,Cancer
+113,Patient_113,Diabetes
+114,Patient_114,Cancer
+115,Patient_115,Cancer
+116,Patient_116,Kidney Disease
+117,Patient_117,Kidney Disease
+118,Patient_118,Cancer
+119,Patient_119,Diabetes
+120,Patient_120,Heart Disease
+121,Patient_121,Diabetes
+122,Patient_122,Diabetes
+123,Patient_123,Diabetes
+124,Patient_124,Kidney Disease
+125,Patient_125,Diabetes
+126,Patient_126,Diabetes
+127,Patient_127,Heart Disease
+128,Patient_128,Kidney Disease
+129,Patient_129,Heart Disease
+130,Patient_130,Cancer
+131,Patient_131,Heart Disease
+132,Patient_132,Kidney Disease
+133,Patient_133,Heart Disease
+134,Patient_134,Cancer
+135,Patient_135,Cancer
+136,Patient_136,Kidney Disease
+137,Patient_137,Heart Disease
+138,Patient_138,Kidney Disease
+139,Patient_139,Diabetes
+140,Patient_140,Heart Disease
+141,Patient_141,Cancer
+142,Patient_142,Heart Disease
+143,Patient_143,Cancer
+144,Patient_144,Heart Disease
+145,Patient_145,Heart Disease
+146,Patient_146,Cancer
+147,Patient_147,Diabetes
+148,Patient_148,Kidney Disease
+149,Patient_149,Diabetes
+150,Patient_150,Cancer
+151,Patient_151,Heart Disease
+152,Patient_152,Diabetes
+153,Patient_153,Heart Disease
+154,Patient_154,Kidney Disease
+155,Patient_155,Diabetes
+156,Patient_156,Heart Disease
+157,Patient_157,Diabetes
+158,Patient_158,Kidney Disease
+159,Patient_159,Diabetes
+160,Patient_160,Cancer
+161,Patient_161,Heart Disease
+162,Patient_162,Heart Disease
+163,Patient_163,Kidney Disease
+164,Patient_164,Diabetes
+165,Patient_165,Cancer
+166,Patient_166,Diabetes
+167,Patient_167,Diabetes
+168,Patient_168,Kidney Disease
+169,Patient_169,Cancer
+170,Patient_170,Cancer
+171,Patient_171,Cancer
+172,Patient_172,Kidney Disease
+173,Patient_173,Cancer
+174,Patient_174,Cancer
+175,Patient_175,Heart Disease
+176,Patient_176,Heart Disease
+177,Patient_177,Kidney Disease
+178,Patient_178,Diabetes
+179,Patient_179,Heart Disease
+180,Patient_180,Heart Disease
+181,Patient_181,Kidney Disease
+182,Patient_182,Diabetes
+183,Patient_183,Heart Disease
+184,Patient_184,Heart Disease
+185,Patient_185,Heart Disease
+186,Patient_186,Diabetes
+187,Patient_187,Diabetes
+188,Patient_188,Kidney Disease
+189,Patient_189,Cancer
+190,Patient_190,Cancer
+191,Patient_191,Diabetes
+192,Patient_192,Kidney Disease
+193,Patient_193,Cancer
+194,Patient_194,Heart Disease
+195,Patient_195,Kidney Disease
+196,Patient_196,Heart Disease
+197,Patient_197,Cancer
+198,Patient_198,Kidney Disease
+199,Patient_199,Heart Disease
+200,Patient_200,Diabetes
